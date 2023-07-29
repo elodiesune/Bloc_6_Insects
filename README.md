@@ -2,11 +2,14 @@
 
 # How to read my files
 
-Video presentation:
-*******************************************************
+DemoDay video presentation (Watch group 1 from 6'40 to 19'):
+https://www.youtube.com/watch?v=5qngzP4DGGU
+
+Personal video presentation:
+-*-*-*-*-*-*-*--*-*-*-*-*-*-*-*-*-
 
 Powerpoint:
-*******************************************************
+https://docs.google.com/presentation/d/1iaaTtyrFAPNk3UaQ-5sxpDKRRIIILs7gO6IsiAauOXQ/edit#slide=id.ga5178bf3d4_2_0
 
 Streamlit application:
 https://papillon-streamlit-bfb375963555.herokuapp.com/
