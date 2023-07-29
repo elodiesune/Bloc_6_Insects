@@ -1,9 +1,11 @@
 API/model_840photo_10class_7epoch.h5
 API/model_celine_100cat_30epoch.h5
 API/final_model.h5
+API/__pycache__
 Deep_Learning/Models/*
 !Deep_Learning/Models/papillon-elo-100cat-10epoch.ipynb
 Streamlit/valid
 Streamlit/test.ipynb
 Streamlit/earth.png
 Streamlit/pap-bleu.gif
+Streamlit/.streamlit
