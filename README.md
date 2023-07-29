@@ -1,3 +1,25 @@
+=======
+
+# How to read my files
+
+Video presentation:
+*******************************************************
+
+Powerpoint:
+*******************************************************
+
+Streamlit application:
+https://papillon-streamlit-bfb375963555.herokuapp.com/
+Source code in: Streamlit/app.py
+
+API:
+https://papillon-api-1e396125389e.herokuapp.com/docs
+Source code in: API/app.py
+Model source code in: Deep_Learning/Models/papillon-elo-100cat-10epoch.ipynb
+
+=======
+
+
 # Projects Prep - Full Stack Data Science Projects
 
 
