@@ -1,6 +1,5 @@
 # Projects Prep - Full Stack Data Science Projects
 
-![Lion Icon](lion_icon.png)
 
 ## Project Overview 🦁
 
