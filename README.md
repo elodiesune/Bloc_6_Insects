@@ -6,7 +6,7 @@ DemoDay video presentation (Watch group 1 from 6'40 to 19'):
 https://www.youtube.com/watch?v=5qngzP4DGGU
 
 Personal video presentation:
--*-*-*-*-*-*-*--*-*-*-*-*-*-*-*-*-
+https://share.vidyard.com/watch/qQ7ErpqfZnxwyEnMX8M9vt?
 
 Powerpoint:
 https://docs.google.com/presentation/d/1iaaTtyrFAPNk3UaQ-5sxpDKRRIIILs7gO6IsiAauOXQ/edit#slide=id.ga5178bf3d4_2_0
